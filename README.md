@@ -17,10 +17,6 @@ and I adapt fast to whatever your stack needs.
 
 ## ⚡ About Me
 
-<table>
-<tr>
-<td valign="top" width="65%">
-
 I'm Abdul Haseeb. For the last **6+ years** I've built the unglamorous backend machinery that real products run on: multi-tenant `SaaS`, `Stripe` subscription billing, real-time messaging, APIs built to take load and not buckle. `Laravel` and `PHP` are my home turf, and I go deep, not just CRUD-and-leave.
 
 I take products end to end. `Vue`/`Nuxt` and `React` on the frontend, `Docker`, `AWS`, and `Linux` for getting them live and keeping them there. No "that's not my part" handoffs, I own the thing from schema to ship.
@@ -28,16 +24,6 @@ I take products end to end. `Vue`/`Nuxt` and `React` on the frontend, `Docker`, 
 Laravel is where I'm sharpest, but I don't worship a stack. I also build in `Python` (`FastAPI`, `Django`) and have hands-on time with `Go` and `Java`, so I slot into whatever a project actually calls for and ramp fast.
 
 Off the clock I'm usually elbow-deep in **AI**, seeing how far I can push it into real workflows. 🤖
-
-</td>
-<td valign="top" width="35%" align="center">
-
-<!-- Swap this for your own profile photo URL -->
-<img src="https://avatars.githubusercontent.com/u/80584079?v=4" width="220" style="border-radius:50%;" alt="Abdul Haseeb"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
