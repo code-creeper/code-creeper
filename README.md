@@ -11,6 +11,10 @@ and I adapt fast to whatever your stack needs.
 
 ⚡ **Full Stack Developer at [Upwork](https://www.upwork.com/freelancers/~01c7919289f0d9ee3a?mp_source=share)**
 
+🌐 **[Visit my Portfolio →](https://your-portfolio-url.com)**
+
+🚧 **Currently building [Toraka](https://toraka.com)** — an online comic reader platform.
+
 ---
 
 <!-- ───────────────────────── ABOUT ───────────────────────── -->
@@ -29,45 +33,52 @@ Off the clock I'm usually elbow-deep in **AI**, seeing how far I can push it int
 
 ## 🛠️ Tech Stack
 
-**Core**
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Frontend**
-
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Also Build With**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Ship & Run**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-creeper&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2ED06E&icon_color=2ED06E)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-creeper&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2ED06E)
+<table>
+  <tr>
+    <td align="center" width="96"><b>Core</b></td>
+    <td>
+      <a href="#"><img src="https://skillicons.dev/icons?i=laravel,php,mysql,postgres&theme=dark" height="44" alt="Laravel, PHP, MySQL, PostgreSQL" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><b>Frontend</b></td>
+    <td>
+      <a href="#"><img src="https://skillicons.dev/icons?i=vue,nuxtjs,react,tailwind&theme=dark" height="44" alt="Vue, Nuxt, React, Tailwind" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><b>Also&nbsp;Build&nbsp;With</b></td>
+    <td>
+      <a href="#"><img src="https://skillicons.dev/icons?i=python,fastapi,django,go,java&theme=dark" height="44" alt="Python, FastAPI, Django, Go, Java" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><b>Ship&nbsp;&amp;&nbsp;Run</b></td>
+    <td>
+      <a href="#"><img src="https://skillicons.dev/icons?i=docker,aws,linux&theme=dark" height="44" alt="Docker, AWS, Linux" /></a>
+      &nbsp;<img src="https://cdn.simpleicons.org/stripe/635BFF" height="38" alt="Stripe" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🤝 Stay in Touch
 
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c7919289f0d9ee3a?mp_source=share)
-[![Email](https://img.shields.io/badge/Email-2ED06E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulhaseebkhan407@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/codecreeper/" title="LinkedIn — replace with your profile URL">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://discord.com/users/916982643378245653" title="Discord: codecreeper">
+    <img src="https://skillicons.dev/icons?i=discord&theme=dark" height="48" alt="Discord" />
+  </a>
+  &nbsp;
+  <a href="mailto:abdulhaseebkhan407@gmail.com" title="Email">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="48" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://www.upwork.com/freelancers/~01c7919289f0d9ee3a?mp_source=share" title="Upwork">
+    <img src="https://cdn.simpleicons.org/upwork/6FDA44" height="40" alt="Upwork" />
+  </a>
+</p>
