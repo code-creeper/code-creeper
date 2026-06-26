@@ -33,7 +33,7 @@ Off the clock I'm usually elbow-deep in **AI**, seeing how far I can push it int
 <td valign="top" width="35%" align="center">
 
 <!-- Swap this for your own profile photo URL -->
-<img src="https://avatars.githubusercontent.com/u/0?v=4" width="220" style="border-radius:50%;" alt="Abdul Haseeb"/>
+<img src="https://avatars.githubusercontent.com/u/80584079?v=4" width="220" style="border-radius:50%;" alt="Abdul Haseeb"/>
 
 </td>
 </tr>
